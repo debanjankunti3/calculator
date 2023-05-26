@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:aquamarine;
+}
+.container{
+    margin: 20px;
+    width: 50vw;
+    /* height: 134vh; */
+    margin: 50px auto;
+}
+.center{
+    text-align: center;
+}
+.bg{
+    background-color: red;
+}
+.row{
+    padding: 5px;
+}
+button{
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding: 29px;
+}
+input{
+    
+}
